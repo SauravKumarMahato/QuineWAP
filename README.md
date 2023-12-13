@@ -5,7 +5,7 @@
 </p>
 
 
-[QuineWAP](https://github.com/SusheelThapa/C-DOTS)  project is a Streamlit web application that leverages the GPT API for code generation. Its intuitive interface features a left section for inputting code explanations and selecting programming languages, while the right section dynamically displays the generated code in a programming-friendly font. QuineWAP combines the power of GPT with the simplicity of Streamlit, offering an interactive platform for code generation and exploration.
+[QuineWAP](https://github.com/SauravKumarMahato/QuineWAP)  project is a Streamlit web application that leverages the GPT API for code generation. Its intuitive interface features a left section for inputting code explanations and selecting programming languages, while the right section dynamically displays the generated code in a programming-friendly font. QuineWAP combines the power of GPT with the simplicity of Streamlit, offering an interactive platform for code generation and exploration.
 
 ## Table of Contents
 
